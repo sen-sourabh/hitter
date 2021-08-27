@@ -12,10 +12,10 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Hitter
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Hitter v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
