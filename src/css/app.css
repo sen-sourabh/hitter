@@ -2,3 +2,25 @@
 .container {
     margin: 30px;
 }
+.q-field__bottom {
+    display: none;
+}
+.expectedRequestURL{
+    padding-bottom: 0px;
+}
+.content-panel {
+    padding: 2px;
+}
+.data-panel {
+    width: 72.4vw;
+    height: 500px;
+}
+.output-response{
+    background-color: whitesmoke;
+}
+pre {outline: 1px solid #ccc; padding: 5px; margin: 5px; }
+.string { color: green; }
+.number { color: darkorange; }
+.boolean { color: blue; }
+.null { color: magenta; }
+.key { color: red; }
