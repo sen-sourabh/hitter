@@ -18,9 +18,16 @@
 .output-response{
     background-color: whitesmoke;
 }
-pre {outline: 1px solid #ccc; padding: 5px; margin: 5px; }
+pre {
+    font-family: monospace, monospace;
+    font-size: 0.8em;
+    /* outline: 1px solid #ccc; 
+    padding: 5px; 
+    margin: 5px;  */
+}
 .string { color: green; }
 .number { color: darkorange; }
 .boolean { color: blue; }
 .null { color: magenta; }
 .key { color: red; }
+.error { color: orangered; }
